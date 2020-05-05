@@ -120,7 +120,7 @@ output.update_layout(
             y=146.7,
             xref="x",
             yref="y",
-            text="Median Inucbation Period",
+            text="Inucbation Period",
             showarrow=True,
             ax=0,
             ay=-110,
